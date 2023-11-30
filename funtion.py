@@ -12,3 +12,4 @@ neuralNetworkGate(input_layer=2,hidden_layer1=2,hidden_layer2=2,output_layer=1,i
 
 neuralNetworkGate(input_layer=2,hidden_layer1=2,hidden_layer2=2,output_layer=1,input_x = norGate()[0],
                   target_y = norGate()[1],epochs =10000,learning_rate = 0.01) 
+# ------------------------------------------------
